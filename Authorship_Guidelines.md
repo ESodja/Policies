@@ -2,7 +2,7 @@
 
 We adhere to the [ESA Code of Ethics on authorship](https://www.esa.org/esa/about/governance/esa-code-of-ethics/). Here we provide additional guidelines on authorship for the Beckman Research Group and collaborators. *This is a dynamic document; please suggest modifications to improve these general guidelines*. 
 
-Discussions on authorship is an interative process, and we encourage that they happen before initiation of a research project and continue throughout all stages of the project. These guidelines are to provide a basis for an open and continuing discussion on authorship among collaborators. They are inspired by [Oliver *et al.* (2018)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2206), other sources listed below, and past collaborative experiences. 
+Discussions on authorship is an interactive process, and we encourage that they happen before initiation of a research project and continue throughout all stages of the project. These guidelines are to provide a basis for an open and continuing discussion on authorship among collaborators. They are inspired by [Oliver *et al.* (2018)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2206), other sources listed below, and past collaborative experiences. 
 
 The aim is to ensure every team member that contributes sufficiently to a manuscript receives co-authorship. What constitutes as substantial contribution for co-authorship should be discussed before the initiation of the research project. Team members shoud discuss author responsibilities and criteria to assign author order. [Oliver *et al.* (2018)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2206) provide a nice example of guidelines that clearly define author responsibilities and the types of contributions that constitute co-authorship (see Appendix 1). 
 
@@ -17,7 +17,7 @@ The aim is to ensure every team member that contributes sufficiently to a manusc
 - generate new text
 
 
-##Author responsibilities
+## Author responsibilities
 - **Lead author(s)** is(are) responsible for communicating regularly with co-authors on the progress of the research. They are expected to facilitate discussions on authorship guidelines before, during, and after the project. 
 - **Corresponding author** is responsible for managing the submission, including sharing the final manuscript and cover letter with all co-authors before submission, submitting the manuscript, forwarding manuscript decisions and reviews to all co-authors, and responding to reviewer comments.
 - **Critical review of manuscript.** All authors must critically review and revise the manuscript at least once. Conducting grammatical edits and including comments of suggested revisions does not count. 
